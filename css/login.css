@@ -1,0 +1,14 @@
+body{
+    background-color: aliceblue;
+}
+aside{
+    width: 300px;
+    background-color: white;
+}
+header{
+    background-color: rgb(200, 205, 210);
+    height: 300px;
+    display: block;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
